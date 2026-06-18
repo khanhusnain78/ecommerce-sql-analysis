@@ -24,6 +24,11 @@ This project aims to answer key business questions such as:
 
 ## Dataset Information
 
+
+The Dataset can be found through link:
+
+https://www.kaggle.com/olistbr/brazilian-ecommerce
+
 The dataset represents a Brazilian E-commerce marketplace containing data about:
 
 * Customers
